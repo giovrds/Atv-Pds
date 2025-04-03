@@ -35,7 +35,7 @@ namespace AppFornecedor.Formularios
                 string.IsNullOrWhiteSpace(txtEmail.Text) || string.IsNullOrWhiteSpace(txtNomeFantasia.Text) || string.IsNullOrWhiteSpace(txtRazaoSoc.Text) ||
                 string.IsNullOrWhiteSpace(txtResponsavel.Text) || string.IsNullOrWhiteSpace(txtTelefone.Text) || cbEstado.SelectedItem == null)
             {
-                MessageBox.Show("PREENCHA TUDO", "GIOVANNA RODRIGUES - 3º A INF", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("PREENCHA TODOS OS CAMPOS", "GIOVANNA RODRIGUES - 3º A INF", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return;
             }
 

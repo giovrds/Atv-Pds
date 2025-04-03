@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D1E9ECD-8008-428C-A36D-5959FE5E86F5}|AppFornecedor\\AppFornecedor.csproj|C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\appfornecedor\\formularios\\formcadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D1E9ECD-8008-428C-A36D-5959FE5E86F5}|AppFornecedor\\AppFornecedor.csproj|c:\\users\\giovanna\\downloads\\giovanna rodrigues -\\appfornecedor\\appfornecedor\\formularios\\formcadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1E9ECD-8008-428C-A36D-5959FE5E86F5}|AppFornecedor\\AppFornecedor.csproj|solutionrelative:appfornecedor\\formularios\\formcadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D1E9ECD-8008-428C-A36D-5959FE5E86F5}|AppFornecedor\\AppFornecedor.csproj|c:\\users\\giovanna\\downloads\\giovanna rodrigues -\\appfornecedor\\appfornecedor\\formularios\\formcadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1D1E9ECD-8008-428C-A36D-5959FE5E86F5}|AppFornecedor\\AppFornecedor.csproj|C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\appfornecedor\\formularios\\formcadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1D1E9ECD-8008-428C-A36D-5959FE5E86F5}|AppFornecedor\\AppFornecedor.csproj|solutionrelative:appfornecedor\\formularios\\formcadastrarfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs",
               "ToolTip": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs*",
               "RelativeToolTip": "AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T14:46:40.538Z",
               "EditorCaption": ""
@@ -82,8 +82,7 @@
               "ToolTip": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\AppFornecedor\\Formularios\\FormListarFornecedores.cs [Design]",
               "RelativeToolTip": "AppFornecedor\\Formularios\\FormListarFornecedores.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:42:58.483Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-31T14:42:58.483Z"
             },
             {
               "$type": "Document",
@@ -91,11 +90,10 @@
               "Title": "FormCadastrarFornecedor.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs",
               "RelativeDocumentMoniker": "AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs",
-              "ToolTip": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs [Design]*",
-              "RelativeToolTip": "AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs [Design]*",
+              "ToolTip": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs [Design]",
+              "RelativeToolTip": "AppFornecedor\\Formularios\\FormCadastrarFornecedor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:40:42.5Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-31T14:40:42.5Z"
             },
             {
               "$type": "Document",
@@ -106,8 +104,7 @@
               "ToolTip": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\AppFornecedor\\Formularios\\Form1.cs [Design]",
               "RelativeToolTip": "AppFornecedor\\Formularios\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:37:22.169Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-31T14:37:22.169Z"
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "AppFornecedor\\Formularios\\Form1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T15:01:04.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:01:04.942Z"
             },
             {
               "$type": "Document",
@@ -156,8 +152,7 @@
               "RelativeToolTip": "AppFornecedor\\Formularios\\FormListarFornecedores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:16:12.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T02:16:12.746Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "ToolTip": "C:\\Users\\Giovanna\\Downloads\\Giovanna Rodrigues -\\AppFornecedor\\AppFornecedor\\Formularios\\Form1.resx",
               "RelativeToolTip": "AppFornecedor\\Formularios\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-03-31T15:23:10.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T15:23:10.785Z"
             },
             {
               "$type": "Document",
@@ -193,8 +187,7 @@
               "RelativeToolTip": "AppFornecedor\\Formularios\\Form1.Designer.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAD4vzYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T14:58:58.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T14:58:58.609Z"
             }
           ]
         }
