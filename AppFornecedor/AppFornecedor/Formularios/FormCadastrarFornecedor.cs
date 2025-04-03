@@ -18,7 +18,7 @@ namespace AppFornecedor.Formularios
     {
         //usar combobox pros estados e tal -> feito
         //verificar se os campos estão vazios -> feito
-        //verificar cnpj --> feito
+        //verificar cnpj --> feito/
 
         public static int idFornecedor = 1;
 
